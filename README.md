@@ -1,7 +1,7 @@
 # Waleed
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WJ-42/WJ-42/main/death%20note%20banner.gif" />
+  <img src="https://raw.githubusercontent.com/WJ-42/WJ-42/main/death%20note%20banner.gif" width="750" />
 </p>
 
 - Hi, I'm Waleed!
