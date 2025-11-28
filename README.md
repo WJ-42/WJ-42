@@ -1,15 +1,15 @@
-# Waleed
+# Waleed / WJ
 
-Hi, I'm Waleed  
+Hi, I'm Waleed.  
 Second year Computer Science student at Aston University  
-Interested in software engineering, AI and ML, web development, and building clean practical solutions.
+Interested in software engineering, AI and ML, web development.
 
 ## About me
 
-• Enjoy solving problems and building real projects  
-• Strong interest in web development and AI  
-• Learning more about backend development  
-• Always improving workflows and structure in my projects  
+• Enjoy solving problems and building real projects.  
+• Strong interest in web development and AI.  
+• Learning more about backend development.  
+• Always improving workflows and structure in my projects.  
 
 ## Tech Stack
 
