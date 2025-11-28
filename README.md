@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WJ-42/WJ-42/main/death%20note%20banner.gif" width="600" />
+  <img src="https://raw.githubusercontent.com/WJ-42/WJ-42/main/watchdogs.gif" width="750" />
 </p>
 
 # Waleed | WJ
