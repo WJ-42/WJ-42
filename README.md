@@ -1,22 +1,22 @@
 # Waleed
 - Hi, I'm Waleed
 - Second year Computer Science student at Aston University
-- How to reach me: [Email](mailto:wjaleed04@gmail.com)
-- Check out my [linktree](https://linktr.ee/waleed)
+- How to reach me: [Email](mailto:waleedjawad2020@gmail.com)
+- Check out my [linktree](https://linktr.ee/wa1eed)
 
 **About me**
-- Strong interest in software engineering, AI and ML, and web development
-- Enjoy building clean, structured, real projects
-- Always improving workflows and learning new tools
-- Balancing uni work with self improvement and personal goals
+- Strong interest in software engineering, AI and ML, and web development.
+- Enjoy building clean, structured, real projects.
+- Always improving workflows and learning new tools.
+- Balancing uni work with self improvement and personal goals.
 
 **Experience**
-- Built a fully functional multi-page business MVP website (Luminous Scents) as part of CS2TP
-- Developed a three-page interactive front-end site (Virtual Kitchen) using HTML, CSS, and JavaScript
-- Created a Java-based recipe management application for university coursework
-- Experience with GitHub projects, version control, and deployment workflows
-- Actively learning backend technologies and improving project structure
-- Working on building AI and machine learning projects to strengthen portfolio
+- Built a fully functional multi-page business MVP website (Luminous Scents) as part of CS2TP.
+- Developed a three-page interactive front-end site (Virtual Kitchen) using HTML, CSS, and JavaScript.
+- Created a Java-based recipe management application for university coursework.
+- Experience with GitHub projects, version control, and deployment workflows.
+- Actively learning backend technologies and improving project structure.
+- Working on building AI and machine learning projects to strengthen portfolio.
 
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
