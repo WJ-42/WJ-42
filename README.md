@@ -1,7 +1,12 @@
 # Waleed
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WJ-42/WJ-42/main/death%20note%20banner.gif" />
+</p>
+
 - Hi, I'm Waleed!
 - Second year Computer Science student at Aston University.
-- [Email](mailto:waleedjawad2020@gmail.com) me regarding inquiries and opportunities.
+- For inquiries and anything else, reach me on my [email](mailto:waleedjawad2020@gmail.com)
 - Check out my [socials!](https://linktr.ee/wa1eed)
 
 **About me**
@@ -12,7 +17,7 @@
 
 **Experience**
 - Built a fully functional multi-page business MVP website (Luminous Scents) as part of CS2TP.
-- Developed a three-page interactive front-end site (Virtual Kitchen) using HTML, CSS, and JavaScript as part of CS1IAD.
+- Developed a three-page interactive front-end site (Virtual Kitchen) using HTML, CSS, and JavaScript.
 - Created a Java-based recipe management application for university coursework.
 - Experience with GitHub projects, version control, and deployment workflows.
 - Actively learning backend technologies and improving project structure.
