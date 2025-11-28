@@ -12,7 +12,7 @@
 
 **Experience**
 - Built a fully functional multi-page business MVP website (Luminous Scents) as part of CS2TP.
-- Developed a three-page interactive front-end site (Virtual Kitchen) using HTML, CSS, and JavaScript.
+- Developed a three-page interactive front-end site (Virtual Kitchen) using HTML, CSS, and JavaScript as part of CS1IAD.
 - Created a Java-based recipe management application for university coursework.
 - Experience with GitHub projects, version control, and deployment workflows.
 - Actively learning backend technologies and improving project structure.
