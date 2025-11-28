@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/WJ-42/WJ-42/main/death%20note%20banner.gif" width="550" />
 </p>
 
-# Waleed
+# Waleed | WJ
 
 - Hi, I'm Waleed!
 - Second year Computer Science student at Aston University.
