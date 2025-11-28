@@ -1,7 +1,7 @@
 # Waleed
 - Hi, I'm Waleed!
 - Second year Computer Science student at Aston University.
-- Hit my [email](mailto:waleedjawad2020@gmail.com) for inquiries.
+- [Email](mailto:waleedjawad2020@gmail.com) me regarding inquiries and opportunities.
 - Check out my [socials!](https://linktr.ee/wa1eed)
 
 **About me**
