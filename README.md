@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/WJ-42/WJ-42/main/death%20note%20banner.gif" height="300" />
-</p>
-
 # Waleed | WJ
 
 - Hi, I'm Waleed!
