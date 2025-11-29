@@ -19,7 +19,7 @@
 - Actively learning backend technologies and improving project structure.
 - Working on building AI and machine learning projects to strengthen portfolio.
 
-## 💻 Tech Stack
+## 💻 Tech Stack:
 
 **Languages:**
 
