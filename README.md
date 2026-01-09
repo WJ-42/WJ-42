@@ -53,6 +53,3 @@
 ## 🔗 Links:
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waleed-jawad/)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/wa1eed)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WJ-42&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
