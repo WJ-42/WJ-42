@@ -3,7 +3,7 @@
 - Hi, I'm Waleed!
 - Second year Computer Science student at Aston University.
 - For inquiries and opportunities, reach me on my [email](mailto:waleedjawad2020@gmail.com).
-- Check out my [socials](https://linktr.ee/wa1eed) and [portfolio](https://wja-portfolio.netlify.app/)!
+- Check out my [socials](https://linktr.ee/wa1eed) and [portfolio](https://wja-portfolio.vercel.app/)!
 
 **About me:**
 - Strong interest in software engineering, AI and ML, and web development.
